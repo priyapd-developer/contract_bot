@@ -1,8 +1,10 @@
-streamlit
+
 pdfplumber
 spacy==3.8.2
 blis==0.7.11
 en-core-web-sm==3.8.0
+streamlit==1.39.0
+
 
 nltk
 python-docx
